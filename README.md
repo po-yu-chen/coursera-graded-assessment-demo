@@ -1,2 +1,3 @@
 # coursera-graded-assessment-demo
-The graded assessment demo in version control in coursera
+
+I add a new file class.txt
